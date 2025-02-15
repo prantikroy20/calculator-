@@ -3,7 +3,7 @@
 A **basic yet stylish calculator** built using **HTML, CSS, and JavaScript**. It supports arithmetic operations with a clean and responsive design.
 
 ## 📸 Preview
-![Calculator Preview](https://via.placeholder.com/500)  
+![Calculator Preview](http://127.0.0.1:5500/calculatorHW/index.html)  
 *(Replace this with an actual screenshot of your project)*
 
 ## 🚀 Features
