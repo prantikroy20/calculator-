@@ -22,9 +22,6 @@ A **basic yet stylish calculator** built using **HTML, CSS, and JavaScript**. It
 2️⃣ Press **"="** to calculate the result.  
 3️⃣ Press **"C"** to clear the display.  
 
-## 📂 Project Setup
-1️⃣ Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/calculator.git
+
 
 
